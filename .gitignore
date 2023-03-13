@@ -34,3 +34,5 @@ test/dist/
 .eslintcache
 .yo-rc.json
 dist-test/
+yarn.lock
+.idea
